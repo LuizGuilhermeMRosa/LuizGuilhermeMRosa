@@ -1,10 +1,12 @@
-- 👋 Olá, Eu sou @LuizGuilhermeMRosa
+- 👋 Olá, Eu sou @LuizGuilhermeMRosa. Tenho 28 anos
 - 👀 Estou cursando Análise e desenvolvimento de sistemas...
 - 🌱 Amo a Natureza 
-- 💞️ Me xurando das minhas cicatrizes 
+- 💞️ Me curando das minhas cicatrizes 
 - 📫 Duque De Caxias - Rio De Janeiro 
 - 😄 Pronomes:Ele/Dele
-- ⚡ Eletricista De Manutenção Industrial e Técnico Em Mecatrônica 
+- ⚡ Amo Trabalhar com novas Tecnologias
+- 🎖️ V prêmio CREA-RJ
+- 👨🏽‍🎓 Futuro Professor Universitário 
 
 <!---
 LuizGuilhermeMRosa/LuizGuilhermeMRosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
